@@ -17,13 +17,11 @@ p,li{ color: white; font-size: 1.1em;}
 h2{ color: #F9F8FF;}
 
 body{
-     
      font-size: 1em; 
      font-family: 'Manrope',sans-serif;
     background-color: #1F2039;
      }
-    
-   footer,header{ background-color: white; }
+ footer,header{ background-color: white; }
 .cta { background-image: linear-gradient( #8E86B5 ,#ACAEED) ;
        color: white;
        border-radius: 50px; ;
